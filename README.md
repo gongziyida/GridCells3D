@@ -17,12 +17,3 @@
 - Inter-field distance distribution
 
 `3D_onto_2D.ipynb`: mode switching (Figure 5 in the paper)
-
-## Samplar Dataset Generated and Analyzed
-Baidu Net Disk: 
-<https://pan.baidu.com/s/1wVdrHD6RDJumRq_xMiIzCQ>
-passcode: j1u0
-
-Google Drive: 
-<https://drive.google.com/drive/folders/12APGz08AxuVvrglw6D7i47R8cwNvdTPM?usp=sharing>
-<https://drive.google.com/drive/folders/1bf3uXhR4KgkXpSFW8yWRkEdVzlxZVYH1?usp=sharing>
